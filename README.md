@@ -32,7 +32,7 @@ Healthcare Data Analyst | Provider Network Operations | Data Migration & Quality
 - Tracked progress toward 100% accuracy threshold
 
 **Overview of Fidings:**
-Provider Data Team identified discrepancies data quality issues with provider specialty. Provider data in the new provider data management user interface (PDM-UI) requires a 100 percent for full production cut-over. 
+Provider Data Team identified data quality issues with provider specialty data. The data mantain in the new Provider Data Management User Interface (PDM-U) requires to meet 100 percent threshold for production cut-over. 
 The Executive Dashboard provides a real-time compliance tracking. From February 1, 2026 to March 9, 2026, the Compliance Rate has increase from 95.5 percent to 96.5 percent. 
 The Team sets remedation strategies by identifiying defects in PDM-UI, and validates buisiness logic with HealthEdge. 
 The Technical Dashboard provides real-time root cause anlysis support and specifically idenfiy provider records with data quality issues. 
