@@ -31,10 +31,11 @@ Healthcare Data Analyst | Provider Network Operations | Data Migration & Quality
 - Identified 152 specialty validation issues requiring remediation
 - Tracked progress toward 100% accuracy threshold
 
-**Over of Fidings:**
-Provider Data Team identified discrepancies data quality issues with provider specialty. Provider data in the new provider data management system requires a 100 percent for full production cut-over. 
-The Executive Dashboard provides a real-time compliance tracking. The Team sets remedation strategies by identifiying defects in the UI and resolution in business logic with the HealthEdge. 
-The technical dashboard provides real-time root cause anlysis support and specifically idenfiy records with data quality issues. 
+**Overview of Fidings:**
+Provider Data Team identified discrepancies data quality issues with provider specialty. Provider data in the new provider data management user interface (PDM-UI) requires a 100 percent for full production cut-over. 
+The Executive Dashboard provides a real-time compliance tracking. From February 1, 2026 to March 9, 2026, the Compliance Rate has increase from 95.5 percent to 96.5 percent. 
+The Team sets remedation strategies by identifiying defects in PDM-UI, and validates buisiness logic with HealthEdge. 
+The Technical Dashboard provides real-time root cause anlysis support and specifically idenfiy provider records with data quality issues. 
  
 
 **Technologies:** Power BI Service, Power Query, DAX, SFTP integration
