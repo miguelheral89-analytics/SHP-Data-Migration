@@ -22,7 +22,7 @@ Healthcare Data Analyst | Provider Network Operations | Data Migration & Quality
 **Key Features:**
 - Issue categorization 
 - Color-coded status indicators for quick triage
-- Date slicer to track progress over time
+- Date filtering for time-based analysis
 - Detailed NPI-level tracking
 - Root cause analysis support
 
