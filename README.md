@@ -38,7 +38,7 @@ The Team sets remedation strategies by identifiying defects in PDM-UI, and valid
 The Technical Dashboard provides real-time root cause anlysis support and specifically idenfiy provider records with data quality issues. 
  
 
-**Technologies:** Power BI Service, Power Query, DAX, SFTP integration
+**Technologies:** Power BI, Power Query, DAX, SFTP integration
 
 ## Contact
 - Email: miguelheral89@gmail.com
