@@ -27,7 +27,3 @@ Built executive and technical dashboards tracking 12,000+ provider record valida
 ## Contact
 - Email: miguelheral89@gmail.com
 - LinkedIn: [linkedin.com/in/miguel-hernandez-aldana-883a88253](https://linkedin.com/in/miguel-hernandez-aldana-883a88253)
-
-
-💼 LinkedIn: [link]
-📧 miguelheral89@gmail.com
