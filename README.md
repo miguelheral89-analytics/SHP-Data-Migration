@@ -10,17 +10,32 @@ Healthcare data analyst with 8+ years of experience in provider network operatio
 - **Healthcare Domain:** Provider data management, EDI (ANSI X12), DMHC/CMS compliance
 - **Tools:** Power BI Service, SFTP automation, HealthEdge PDM, HealthRules Payor
 
-## Projects
+### 1. 📊 Power BI Migration Validation Dashboards
 
-### 1. Power BI Migration Dashboards
-Built executive and technical dashboards tracking 12,000+ provider record validation.
-- **Technologies:** Power BI Service, DAX, SFTP integration
-- **Impact:** Enabled cutover decision-making, tracked 96.5% compliance rate
+**Purpose:** Track data migration validation progress for 12,000+ provider records
 
-### 1. Power Query ETL Automation
-Automated provider directory processing, reducing preparation time from 4 hours to 10 minutes.
-- **Technologies:** Power Query (M code), Excel
-- **Impact:** 95% time reduction, eliminated manual errors, maintained 100% PCP validation compliance
+#### Executive Dashboard: Specialty Verification
+![Executive Dashboard](executive_dashboard.png)
+
+**Key Features:**
+- Real-time compliance tracking (96.5% current rate)
+- Trend analysis showing improvement from 95% → 96.5% over 6 weeks
+- KPI cards for at-a-glance status
+- Date filtering for time-based analysis
+
+#### Technical Dashboard: Blank Specialty Issue Tracking
+![Technical Dashboard](technical_dashboard_1.png)
+
+**Key Features:**
+- Issue categorization (Persistent: 64, Recurring: 88, Post-Fix: 4)
+- Color-coded status indicators for quick triage
+- Detailed NPI-level tracking
+- Root cause analysis support
+
+**Business Impact:**
+- Enabled executive decision-making on production cutover readiness
+- Identified 152 specialty validation issues requiring remediation
+- Tracked progress toward 95% accuracy threshold
 
 
 
