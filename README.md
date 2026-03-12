@@ -12,17 +12,17 @@ Healthcare data analyst with 8+ years of experience in provider network operatio
 
 ## Projects
 
+### 1. Power BI Migration Dashboards
+Built executive and technical dashboards tracking 12,000+ provider record validation.
+- **Technologies:** Power BI Service, DAX, SFTP integration
+- **Impact:** Enabled cutover decision-making, tracked 96.5% compliance rate
+
 ### 1. Power Query ETL Automation
 Automated provider directory processing, reducing preparation time from 4 hours to 10 minutes.
 - **Technologies:** Power Query (M code), Excel
 - **Impact:** 95% time reduction, eliminated manual errors, maintained 100% PCP validation compliance
-- [View Code](link to M code file)
 
-### 2. Power BI Migration Dashboards
-Built executive and technical dashboards tracking 12,000+ provider record validation.
-- **Technologies:** Power BI Service, DAX, SFTP integration
-- **Impact:** Enabled cutover decision-making, tracked 96.5% compliance rate
-- [View Documentation](link to dashboard PDF)
+
 
 ## Contact
 - Email: miguelheral89@gmail.com
