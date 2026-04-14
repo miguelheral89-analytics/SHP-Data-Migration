@@ -16,8 +16,7 @@ Healthcare Data Analyst | Provider Network Operations | Data Migration & Quality
 - Date filtering for time-based analysis
 
 #### Technical Dashboard: Blank Specialty Issue Tracking
-![Technical Dashboard](technical_dashboard_1.png)
-![Technical Dashboard](technical_dashboard_2.png)
+![Technical Dashboard](image-2.png)
 
 **Key Features:**
 - Issue categorization 
