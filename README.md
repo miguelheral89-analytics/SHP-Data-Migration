@@ -5,7 +5,7 @@ Healthcare Data Analyst | Provider Network Operations | Data Migration & Quality
 
 ## Power BI Migration Validation Dashboards
 
-**Purpose:** Track Sutter Health Plan data migration validation progress for 12,000+ provider records across dual-system reconciliation post go-live date April 30, 2025. Special considaration to validate provider specialty data was uploaded from legacy Excel file and HealthRules Payer (HRP). Provider data was initially ingested from HRP to new Provider Data Management system (PDM). After, the Master Provider file was ingested. The different sources caused discrepancies in the provider data in PDM. Validation was needed to identify the root causes and implement remediation. This dashboard was created to track remediation progress in real-time.
+**Purpose:** Track Sutter Health Plan data migration validation progress for 12,000+ provider records across dual-system reconciliation post go-live date April 30, 2025. Special considaration to validate provider specialty data. This data was uploaded from legacy Excel files and HealthRules Payer (HRP). Provider data was initially ingested from HRP to new Provider Data Management system (PDM). After, the Master Provider file was ingested. The different sources caused discrepancies in the provider specialty data in PDM. Validation was needed to identify the root causes and implement remediation. This dashboard was created to track remediation progress in real-time.
 
 #### Executive Dashboard: Specialty Verification
 ![Executive Dashboard](executive_dashboard.png)
