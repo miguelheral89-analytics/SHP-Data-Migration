@@ -1,5 +1,6 @@
 # Healthcare Data Analytics Portfolio
 Miguel Hernandez Aldana
+
 Healthcare Data Analyst | Provider Network Operations | Data Migration & Quality
 
 ## Power BI Migration Validation Dashboards
