@@ -19,7 +19,8 @@ Healthcare Data Analyst | Provider Network Operations | Data Migration & Quality
 ![Technical Dashboard](technical_dashboard.png)
 
 **Key Features:**
-- Issue categorization 
+- Issue categorization
+- Real-time remediation tracking
 - Color-coded status indicators for quick triage
 - Date filtering for time-based analysis
 - Detailed NPI-level tracking
@@ -31,11 +32,7 @@ Healthcare Data Analyst | Provider Network Operations | Data Migration & Quality
 - Tracked progress toward 100% accuracy threshold
 
 **Overview of Fidings:**
-Provider Data Team identified data quality issues with provider specialty data. The data mantain in the new Provider Data Management User Interface (PDM-U) requires to meet 100 percent threshold for production cut-over. 
-The Executive Dashboard provides a real-time compliance tracking. From February 1, 2026 to March 9, 2026, the Compliance Rate has increase from 95.5 percent to 96.5 percent. 
-The Team sets remedation strategies by identifiying defects in PDM-UI, and validates buisiness logic with HealthEdge. 
-The Technical Dashboard provides real-time root cause anlysis support and specifically idenfiy provider records with data quality issues. 
- 
+Provider data in PDM needs to meet 100 treshold before system crossover. Dashboards show migration status needs further review. Identifying blank primary specialties in provider records remediated compliance issues. Compliance rates increase from 94.95% in Frebruary 29, 2026 to 96.6% in March 1, 2026. However, persistent issues with primary specialty data were attributed to issues with the UI. The issue was reported to the vendor. 
 
 **Technologies:** Power BI, Power Query, DAX, SFTP integration
 
